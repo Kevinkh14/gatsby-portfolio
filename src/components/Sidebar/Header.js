@@ -6,7 +6,7 @@ export default function Footer({ title, heading, avatar }) {
     <div id="logo">
       <Link to="/">
         <span className="image avatar48">
-          <img height="128px" src={avatar} alt="" />
+          <img  height="128px" src='https://res.cloudinary.com/kevin14/image/upload/v1571962422/iangmjh94gygnyf3jbtk.jpg' alt="" />
         </span>
 
         <h1 id="title">{title}</h1>
